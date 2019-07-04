@@ -1,8 +1,5 @@
 
-int main () {
-    int T;
-    cin>>T;
-    int n;
+
     for (int i=0;i<T;i++)
     {
         cin>>n;

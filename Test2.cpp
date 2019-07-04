@@ -1,9 +1,6 @@
 
 
-int main(void)
-{
-    int a,b,o;
-    int xa,xb;
+
 scanf("%d",&a);
 printf("\n");
 scanf("%d",&b);
