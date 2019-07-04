@@ -1,5 +1,5 @@
 
-int convert(int);
+
 int main(void)
 {
     int a,b,o;
