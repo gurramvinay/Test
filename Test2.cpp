@@ -31,7 +31,6 @@ int convert (int x)
     int pro=1;
     int sum=0;
     int y=x;
-    int z=x;
     int i;
     while (y!=0)
     {

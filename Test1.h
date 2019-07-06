@@ -8,7 +8,7 @@
         int temp=n;
         int a,b,temp1;
         int test=0;
-        int len=0;
+        
         while (x!=0)
         {
             len++;
