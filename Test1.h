@@ -1,5 +1,5 @@
 
-
+#include<iostream>
     for (int i=0;i<T;i++)
     {
         cin>>n;
