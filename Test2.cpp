@@ -73,4 +73,7 @@ int convert (int x)
     }
     return (sum);
 }
+<<<<<<< HEAD
 //Change 1
+=======
+>>>>>>> parent of cbb2ea7... git revert v1 test2
